@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Taste",
+  "base_artist": "Sabrina Carpenter",
+  "createdAt": "2026-02-26T06:37:08.551883Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Beer Taste Better",
+      "artist": "Blaine Holcomb",
+      "has_synced": true,
+      "path": "select/01_Beer_Taste_Better_Blaine_Holcomb.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Taste of Regret",
+      "artist": "In Fear and Faith",
+      "has_synced": false,
+      "path": "select/02_The_Taste_of_Regret_In_Fear_and_Faith.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Taste",
+      "artist": "Magik Markers",
+      "has_synced": false,
+      "path": "select/03_Taste_Magik_Markers.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Taste Of Blood",
+      "artist": "Mazzy Star",
+      "has_synced": false,
+      "path": "select/04_Taste_Of_Blood_Mazzy_Star.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Foul Taste",
+      "artist": "Corbin",
+      "has_synced": false,
+      "path": "select/05_Foul_Taste_Corbin.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Taste in Men",
+      "artist": "Placebo",
+      "has_synced": false,
+      "path": "select/06_Taste_in_Men_Placebo.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Taste In Men",
+      "artist": "Placebo",
+      "has_synced": true,
+      "path": "select/07_Taste_In_Men_Placebo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Taste in Men (Alpinestars Kamikaze Skimix)",
+      "artist": "Placebo",
+      "has_synced": false,
+      "path": "select/08_Taste_in_Men_(Alpinestars_Kamikaze_Skimix)_Placebo.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Taste in Men (Radio Edit)",
+      "artist": "Placebo",
+      "has_synced": false,
+      "path": "select/09_Taste_in_Men_(Radio_Edit)_Placebo.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Taste Of You",
+      "artist": "Echobelly",
+      "has_synced": false,
+      "path": "select/10_Taste_Of_You_Echobelly.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Taste It",
+      "artist": "Little Boots",
+      "has_synced": false,
+      "path": "select/11_Taste_It_Little_Boots.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Taste It",
+      "artist": "Little Boots",
+      "has_synced": true,
+      "path": "select/12_Taste_It_Little_Boots.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Taste My Love",
+      "artist": "Cathy Dennis",
+      "has_synced": true,
+      "path": "select/13_Taste_My_Love_Cathy_Dennis.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "A Taste of Things to Come",
+      "artist": "Go West",
+      "has_synced": true,
+      "path": "select/14_A_Taste_of_Things_to_Come_Go_West.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bitter Taste",
+      "artist": "Billy Idol",
+      "has_synced": true,
+      "path": "select/15_Bitter_Taste_Billy_Idol.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Taste",
+      "artist": "Sabrina Carpenter",
+      "has_synced": false,
+      "path": "select/pl_01_Taste_Sabrina_Carpenter.txt"
+    }
+  ]
+}
